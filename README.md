@@ -6,7 +6,7 @@
   </p>
 
   <p align="center">
-    <a href="https://giulianoconti.com/assets/Giuliano_Conti_CV-en.pdf">
+    <a href="https://giulianoconti.com/assets/Giuliano_Conti_CV-en.png">
       <img src="cv-preview.png" alt="Giuliano Conti — CV" width="800">
     </a>
   </p>
